@@ -29,7 +29,6 @@ app.get("/direct3ds", function (req, res) {
 		"action": "SALE",
 		"type": "1",
 		"transactionUnique": "NodeSDK Sample code test",
-		"countryCode": "826",
 		"currencyCode": "826",
 		"amount": "1001",
 		"cardNumber": "4012001037141112",

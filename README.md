@@ -37,7 +37,6 @@ reqFields = {
 	"action" => "SALE",
 	"type" => 1,
 	"transactionUnique" => uniqid,
-	"countryCode" => 826,
 	"currencyCode" => 826,
 	"amount" => 1001,
 	"cardNumber" => "XXXXXXXXXXXXXXXX",

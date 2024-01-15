@@ -27,7 +27,6 @@ app.get("/hosted", function (req, res) {
 		"action": "SALE",
 		"type": 1,
 		"transactionUnique": "NodeSDK Sample code test",
-		"countryCode": 826,
 		"currencyCode": 826,
 		"amount": 1001,
 		"redirectURL": "https://localhost:8989/hosted/response/",
